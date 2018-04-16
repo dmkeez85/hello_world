@@ -1,0 +1,29 @@
+commit a40acd2bf5f59c45d388afb5df9ba9e0f75e83cf
+Author: Travh98 <travishunter33@gmail.com>
+Date:   Mon Apr 16 17:57:35 2018 -0400
+
+    Added Travis
+    
+    wussup
+
+commit dd31783175bad255f593fcbcfb2a1fde9f924c34
+Author: Dylan <dmkeez@gmail.com>
+Date:   Mon Apr 16 17:46:47 2018 -0400
+
+    Write
+    
+    Writes Hello World
+
+commit 6ddef0da69772261fd9f1ac97b08d2229a6ed862
+Author: Dylan <dmkeez@gmail.com>
+Date:   Mon Apr 16 17:34:39 2018 -0400
+
+    Changes
+    
+    Added About to ReadME
+
+commit 4ad0f16ff0c773cb56e8ac4c47b93ad497afdbe1
+Author: Dylan <dmkeez@gmail.com>
+Date:   Mon Apr 16 17:16:56 2018 -0400
+
+    Initial commit
