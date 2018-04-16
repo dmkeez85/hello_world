@@ -4,3 +4,4 @@
 # Thursdays 3:30-5:15
 
 ## About
+Partner: John Travis Hunter
